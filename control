@@ -1,0 +1,9 @@
+Package: org.thebigboss.handoffflipswitch
+Name: Continuity Flipswitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle for Continuity (Handoff) feature.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
